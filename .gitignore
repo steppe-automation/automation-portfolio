@@ -9,3 +9,13 @@ CLAUDE.md
 PROFILE.md
 progress.md
 03-pdf-invoice-extractor/invoices/
+resume.pdf
+make_resume.py
+thumbnails/
+make_thumbnails.py
+proposals.md
+
+# email campaign demo outputs
+!04-email-campaign/contacts.csv
+04-email-campaign/outbox/
+04-email-campaign/suppression.txt

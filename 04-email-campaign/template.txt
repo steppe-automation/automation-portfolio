@@ -1,0 +1,12 @@
+Subject: New programs for {centre_name}
+
+Hi {first_name},
+
+We help childcare centres in {suburb} save time on enrolment admin.
+Would a 10-minute call next week be useful?
+
+Best regards,
+The Team
+
+---
+Don't want these emails? Reply STOP or unsubscribe: {unsubscribe_url}
