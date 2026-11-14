@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+openpyxl
+pdfplumber
+reportlab==4.0.9
+anthropic
+urllib3<2

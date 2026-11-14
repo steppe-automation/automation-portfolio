@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.xlsx
+*.csv
+.env
+
+# private planning files, not for the public portfolio
+CLAUDE.md
+PROFILE.md
+progress.md
+03-pdf-invoice-extractor/invoices/

@@ -1,0 +1,7 @@
+[
+  {"from": "jane@acme-corp.com", "subject": "Quote request for 200 units", "body": "Hi, could you send pricing for 200 units of your standard package? We need delivery by March."},
+  {"from": "billing@hostingco.com", "subject": "Invoice #4471 is due", "body": "Your invoice #4471 for $89.00 is due on the 15th. Please pay to avoid service interruption."},
+  {"from": "mark@gmail.com", "subject": "Order arrived broken", "body": "My order #2231 arrived with a cracked screen. I want a replacement or a refund please."},
+  {"from": "news@marketingdigest.io", "subject": "10 growth hacks for 2027", "body": "This week's newsletter: ten growth tactics, plus our webinar schedule. Unsubscribe anytime."},
+  {"from": "lisa@partnerfirm.com", "subject": "Can we meet Thursday?", "body": "Are you free Thursday at 3pm to discuss the partnership proposal?"}
+]
