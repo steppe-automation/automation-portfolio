@@ -19,3 +19,5 @@ proposals.md
 !04-email-campaign/contacts.csv
 04-email-campaign/outbox/
 04-email-campaign/suppression.txt
+05-gis-voter-districts/out/
+04-email-campaign/followup_state.csv

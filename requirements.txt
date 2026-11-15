@@ -5,3 +5,4 @@ pdfplumber
 reportlab==4.0.9
 anthropic
 urllib3<2
+geopandas

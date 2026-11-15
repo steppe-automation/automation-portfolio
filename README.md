@@ -1,6 +1,6 @@
 # Automation Portfolio
 
-Four small, working automation tools in Python by [steppe-automation](https://github.com/steppe-automation). Each runs end to end on sample data and is built to be adapted to a client's real data in hours, not days.
+Five small, working automation tools in Python by [steppe-automation](https://github.com/steppe-automation). Each runs end to end on sample data and is built to be adapted to a client's real data in hours, not days.
 
 Need something like this for your data? Message me on Upwork or Fiverr.
 
@@ -9,7 +9,8 @@ Need something like this for your data? Message me on Upwork or Fiverr.
 | [01-price-scraper](01-price-scraper/) | Scrapes product name, price, rating and stock across paginated catalogue pages, with retries and polite delays | Formatted Excel (filters, frozen header) |
 | [02-email-classifier](02-email-classifier/) | Reads unread mail over IMAP, labels each email with Claude AI (lead, billing, support, meeting, newsletter), writes a one-line summary and priority | CSV ready for Google Sheets |
 | [03-pdf-invoice-extractor](03-pdf-invoice-extractor/) | Pulls invoice number, date, client, subtotal, tax and total from a folder of PDFs, and flags invoices whose totals don't add up | Excel with a running total |
-| [04-email-campaign](04-email-campaign/) | Cleans a contact list (duplicates, invalid addresses), skips STOP replies and unsubscribes, and sends personalised emails in small daily batches that resume where they stopped | `.eml` previews (dry run) or SMTP sends, plus a send log |
+| [04-email-campaign](04-email-campaign/) | Cleans a contact list (duplicates, invalid addresses), skips STOP replies and unsubscribes, and sends personalised emails in small daily batches that resume where they stopped | `.eml` previews (dry run) or SMTP sends, plus a send log; 3-touch follow-up sequence |
+| [05-gis-voter-districts](05-gis-voter-districts/) | Assigns records to districts by precinct with GeoPandas spatial joins and extracts everyone within 500 ft / 1,000 ft of given sites (exact, in a feet-based CRS) | One CSV per district / site, plus an unmatched-rows check file |
 
 ## Run
 
